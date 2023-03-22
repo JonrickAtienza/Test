@@ -207,16 +207,3 @@ elif selection == "The Team":
     
 elif selection == "Concerns during 2021":
     worries()
-    
-    
-    
-    
-    Most vulnerable
-        Unemployed + 
-
-
-        
-        
-financially worried >> no help received from the government >> no financial access >> check if they borrowed or not?
-
-Identify trends per segments: income quantile, age group, etc.
