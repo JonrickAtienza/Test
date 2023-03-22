@@ -176,7 +176,7 @@ def worries():
 
 # Display text in column 1
     with col2:
-        ("TEST CHANGE 96.4% of the Filipinos said that they are financially worried. **_Covid_** was identified as the top financial concern. This is followed by insufficiency of funds for **_medical costs and savings for old age_**. The Philippines seems to share similar concerns with East Asia and the Pacific, but at **_more pronounced levels_**.")
+        ("96.4% of the Filipinos said that they are financially worried. **_Covid_** was identified as the top financial concern. This is followed by insufficiency of funds for **_medical costs and savings for old age_**. The Philippines seems to share similar concerns with East Asia and the Pacific, but at **_more pronounced levels_**.")
     
 list_of_pages = [
     "Towards Financial Inclusion",
